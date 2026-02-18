@@ -1,0 +1,34 @@
+TO DO LIST:
+
+ADD UI TUTORIAL IN MENU AND/OR START OF GAME - add to phases
+
+ADD DEATH TILES AT RANDOM - random bombs, 
+
+DECIDE ON PACING
+
+FIX GAME LOOP/Flow (UI)
+
+decide on theme:
+	maybe get rid of "under the city" and just do all underground for simplicity
+
+sound fx/ visuals - particles
+
+Hud UI 
+fuel 
+health/ rig integrity? 3 bombs/ death tile?
+Drill duration
+distance to end
+angle (maybe warning if angle is considered too steep for train)?
+
+
+train-
+snaps fix
+
+
+If Time:
+create alg for deciding on which rail tile to place
+add damage zones for drill 
+	e.g - a bomb hits the drill, chooses a damage spot - e.g turning mechanism??? reduces rotSpeed
+	    - Hit wheels - reduces speed
+
+

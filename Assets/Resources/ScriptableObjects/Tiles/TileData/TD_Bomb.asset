@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2ad8ca0e635104fbb2e279b311f26f, type: 3}
+  m_Name: TD_Bomb
+  m_EditorClassIdentifier: 
+  canDig: 1
+  hardness: 1
+  tileBases:
+  - {fileID: 11400000, guid: f4f2d46273893554aa1c4f187853dccf, type: 2}
+  - {fileID: 11400000, guid: b11c1289bb86f0246b5cc370f8d8757d, type: 2}
+  drillParticle: {fileID: 572406330775906291, guid: d41834b3a167a474f9e698098cbdea6b, type: 3}
